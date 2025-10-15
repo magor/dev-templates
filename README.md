@@ -37,6 +37,7 @@ Once your preferred template has been initialized, you can use the provided shel
 | [Elixir]                         | [`elixir`](./elixir/)                 |
 | [Elm]                            | [`elm`](./elm/)                       |
 | Empty (change at will)           | [`empty`](./empty)                    |
+| [Flutter]                        | [`flutter`](./flutter)                |
 | [Gleam]                          | [`gleam`](./gleam/)                   |
 | [Go]                             | [`go`](./go/)                         |
 | [Hashicorp] tools                | [`hashi`](./hashi/)                   |
@@ -128,6 +129,10 @@ The sections below list what each template includes. In all cases, you're free t
 ### [Empty](./empty/)
 
 A dev template that's fully customizable.
+
+### [`flutter`](./flutter/)
+
+- [Flutter]
 
 ### [`gleam`](./gleam/)
 
@@ -359,6 +364,7 @@ A dev template that's fully customizable.
 [elixir]: https://elixir-lang.org
 [elm]: https://elm-lang.org
 [elm2nix]: https://github.com/cachix/elm2nix
+[flutter]: https://flutter.dev/
 [gdb]: https://gnu.org/software/gdb
 [gigalixir]: https://gigalixir.com
 [gleam]: https://gleam.run

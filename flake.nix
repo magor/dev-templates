@@ -154,6 +154,11 @@
             description = "Empty dev template that you can customize at will";
           };
 
+          flutter = {
+            path = ./flutter;
+            description = "Flutter development environment";
+          };
+
           gleam = {
             path = ./gleam;
             description = "Gleam development environment";
